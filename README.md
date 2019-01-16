@@ -1,2 +1,2 @@
 # demo_git
-A git demo
+A pretty cool git demo
